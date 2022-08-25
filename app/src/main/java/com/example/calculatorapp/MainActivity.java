@@ -64,8 +64,4 @@ public class MainActivity extends AppCompatActivity {
         numberSumTV.setText("" + sum);
     }
 
-    public void enterNumOrValue(Button button){
-
-    }
-
 }
